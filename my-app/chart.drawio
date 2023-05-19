@@ -1,0 +1,73 @@
+<mxfile host="65bd71144e">
+    <diagram id="_lE4AUOnBsbhe56hmiM5" name="Page-1">
+        <mxGraphModel dx="598" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#801725;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="30" width="383" height="395" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0000CC;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="30" width="480" height="630" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Main ToDo List" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Input box" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="List" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Delete options" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Completed option" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="677" y="75" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Priority option" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="75" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Clickable buttons" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A3EB5;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="text input" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A3EB5;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Deletes adjacent item" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A3EB5;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Delete ALL button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A3EB5;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Saves input in list" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A3EB5;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="List is displayed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A3EB5;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Clears input box" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A3EB5;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="530" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Clickable ADD button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A3EB5;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Clickable button" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2465D;" parent="1" vertex="1">
+                    <mxGeometry x="677" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Scores a line through item" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2465D;" parent="1" vertex="1">
+                    <mxGeometry x="677" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Drop-down menu with priority status&lt;br&gt;High, Medium, Low" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2465D;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Moves item to the correct list" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2465D;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Creates a new list:&lt;br&gt;High / Low" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2465D;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,16 @@
+body {
+  background-image: url("https://media.istockphoto.com/id/1150672974/photo/bookcase-with-evergreen-plants-over-white-wall.jpg?s=170667a&w=0&k=20&c=3NDxmAx27ANlM47cpr1u3E4w8W3R8h_dMNn6uNXjgCg=");
+  /* make the background image show once*/
+  background-repeat: no-repeat;
+  /*make background image across whole screen*/
+  background-size: cover;
+  margin: 0;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
